@@ -1,1 +1,13 @@
 /* CSS */
+body {
+    margin: 0;
+    background-color: #ebdac4;
+}
+h1 {
+    grid-column-start: 2;
+    display: flex;
+    justify-content: center;
+    color:  #000000; 
+     font-size: 30px;
+ 
+}
